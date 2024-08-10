@@ -21,7 +21,7 @@ repository               : "Mnji4"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jump.jpg"
   name             : "Zenian Liang"
   pronouns         : # example: "she/her"  
   bio              : "Reinforcement Learning"
