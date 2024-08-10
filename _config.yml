@@ -14,7 +14,7 @@ name                     : &name "Zenian Liang"
 description              : &description "personal description"
 url                      : "https://Mnji4.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/Mnji4/"
+repository               : "Mnji4"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -88,7 +88,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    appid                :
+    id                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
@@ -124,7 +124,7 @@ twitter:
   username               : &twitter
 facebook:
   username               :
-  app_id                 :
+  _id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
