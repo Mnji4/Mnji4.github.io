@@ -12,7 +12,7 @@ title                    : "Zenian Liang"
 title_separator          : "-"
 name                     : &name "Zenian Liang"
 description              : &description "personal description"
-url                      : https://Mnji4.github.io"
+url                      : "https://Mnji4.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
