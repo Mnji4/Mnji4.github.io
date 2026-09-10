@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "Zenian Liang"
+title: ""
 author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-[Email](mailto:liangzn3@mail3.sysu.edu.cn) · [GitHub](https://github.com/Mnji4) · [CV](https://drive.google.com/file/d/1ES_avVsIA8fbg6SI8XEf0gzdk7jXOsr7/view)
+<div style="display:flex; align-items:center; gap:1.4rem; margin:0 0 2rem 0;">
+  <img src="/images/jump.jpg" alt="Zenian Liang" style="width:120px; height:120px; border-radius:50%; object-fit:cover; flex:0 0 auto;">
+  <div>
+    <h1 style="margin:0 0 0.5rem 0;">Zenian Liang</h1>
+    <div>
+      <a href="mailto:liangzn3@mail3.sysu.edu.cn">Email</a> ·
+      <a href="https://github.com/Mnji4">GitHub</a> ·
+      <a href="https://drive.google.com/file/d/1ES_avVsIA8fbg6SI8XEf0gzdk7jXOsr7/view">CV</a>
+    </div>
+  </div>
+</div>
 
 ## Research Interests
 
