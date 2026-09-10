@@ -1,22 +1,7 @@
-# main links links
+# Main navigation
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Home"
+    url: /
 
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "CV"
+    url: "https://drive.google.com/file/d/1ES_avVsIA8fbg6SI8XEf0gzdk7jXOsr7/view"
